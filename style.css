@@ -1,0 +1,41 @@
+h1{text-align: center; font-weight: bold; color: darkblue; font-variant-caps:small-caps}
+h2{color: blue; border: 1px black solid ;}
+a{text-decoration: none; font-weight: bold; color: darkgreen;}
+a:active{color: red;}
+li{color: red; font-weight: bold;}
+body{background-color: #e6e6e6}
+.intro{
+    width: 40%;
+    
+    
+     
+     padding: 0.5em;
+     margin: .75em;
+     font-weight: bold;
+     font-size: 1.2em;
+     font-variant: small-caps;
+}
+
+a:hover {
+    background-color: yellow;
+
+}
+
+.text{
+    width: 40%;
+   
+    border: 3px blue  ;
+    padding: 0.5em;
+     margin: .75em;
+    font:  bold  12pt bold monospace ;
+   color: teal;
+    
+}
+.p{display: flex;
+    flex-wrap:wrap;
+    flex-direction: row;
+   
+}
+.end {font-weight: bold; font-size: 1.2em; }
+.mid {font-weight: bold; font-size: 1.2em;}
+#special{text-align: center; font-weight: bolder; color: crimson; font-size: 2em; font-family: sans-serif;}
